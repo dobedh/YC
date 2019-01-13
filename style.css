@@ -1,18 +1,33 @@
 html{
-    font-family : 'Lato', sans-serif;
+    font-family : "Noto Sans DemiLight", "Nanum Gothic";
 }
 
 header{
-    margin : 50px 0;
+    margin : 30px 0;
 }
 
 nav{
-    align-items : center;
-    margin : 0 165px;
+    width : 100%;
+    position : abolute;
+}
+
+.inner{
+    margin : 0 30px;
+    width : 100%;
 }
 
 .logo{
+    float : left;
     font-size : 20px;
     color : #396EA0;
 }
 
+.menu{
+    text-align : center;
+    left : 50%;
+    display : inline-block;
+    position : absolute;
+    font-size : 17px;
+    color : #333;
+    font-weight : lighter;
+}
