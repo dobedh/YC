@@ -1,0 +1,18 @@
+html{
+    font-family : 'Lato', sans-serif;
+}
+
+header{
+    margin : 50px 0;
+}
+
+nav{
+    align-items : center;
+    margin : 0 165px;
+}
+
+.logo{
+    font-size : 20px;
+    color : #396EA0;
+}
+
