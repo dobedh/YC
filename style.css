@@ -18,16 +18,20 @@ nav{
 
 .logo{
     float : left;
-    font-size : 20px;
+    font-size : 17px;
     color : #396EA0;
 }
 
 .menu{
     text-align : center;
-    left : 50%;
+    left : 45%;
     display : inline-block;
     position : absolute;
     font-size : 17px;
     color : #333;
     font-weight : lighter;
+}
+
+.menu1{
+    margin-right : 100px;
 }
